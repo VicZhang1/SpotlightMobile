@@ -7,8 +7,8 @@ using SpotlightExpress.Services;
 using Microsoft.WindowsAzure.MobileServices;
 using Xamarin.Forms;
 
-[assembly: Dependency(typeof(SpotlightExpress.Droid.Authentication.SocialAuthenticator))]
-namespace SpotlightExpress.Droid.Authentication
+[assembly: Dependency(typeof(SpotlightExpress.Android.Authentication.SocialAuthenticator))]
+namespace SpotlightExpress.Android.Authentication
 {
     public class SocialAuthenticator : BaseSocialAuthenticator
     {

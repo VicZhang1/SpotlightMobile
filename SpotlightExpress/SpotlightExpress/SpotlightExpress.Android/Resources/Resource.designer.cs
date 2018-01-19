@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("SpotlightExpress.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("SpotlightExpress.Android.Resource", IsApplication=true)]
 
-namespace SpotlightExpress.Droid
+namespace SpotlightExpress.Android
 {
 	
 	
@@ -26,7 +26,7 @@ namespace SpotlightExpress.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::SpotlightExpress.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::SpotlightExpress.Android.Resource.Attribute.actionBarSize;
 		}
 		
 		public partial class Animation

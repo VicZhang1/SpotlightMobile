@@ -4,7 +4,7 @@ using Android.Content;
 using Android.Content.PM;
 using Android.OS;
 
-namespace SpotlightExpress.Droid
+namespace SpotlightExpress.Android
 {
     [Activity(Label = "SpotlightExpress.Android", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
