@@ -136,6 +136,7 @@
       <Visible>false</Visible>
     </ImageAsset>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+    <BundleResource Include="Resources\spinner-lus-logo-type.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
